@@ -73,7 +73,7 @@ root/
 4. Save and **Reload** the spreadsheet to activate menus.
 
 Easiest Method:
-1. Make a copy of this [DTR TIME TRACKER AUTOMATION TEMPLATE]([https://www.google.com](https://docs.google.com/spreadsheets/d/1926kmLUN2-WxAqCYilf5pkIEj0AmB8PoJscLVj5Lgws/edit?usp=sharing))
+1. Make a copy of this [DTR TIME TRACKER AUTOMATION TEMPLATE](https://docs.google.com/spreadsheets/d/1926kmLUN2-WxAqCYilf5pkIEj0AmB8PoJscLVj5Lgws/edit?usp=sharing)
 2. Run the functions on the Menus (see "Usage" below).
 
 ---
